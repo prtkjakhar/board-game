@@ -1,4 +1,5 @@
 {
+  "compatibilityDate": "2024-10-24",
   "name": "fun-board-game",
   "main": "party/server.ts",
   "port": 1999
